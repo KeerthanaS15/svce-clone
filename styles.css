@@ -480,8 +480,8 @@ button.cta {
 }
 .nav-container{
     display: flex;
-    margin: 7% 0 3% 0;
-    padding: 2% 0;
+    background-color: #76badb;
+        padding: 2% 0;
 }
 .container-five p {
     margin-left: 60px;
